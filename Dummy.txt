@@ -1,1 +1,4 @@
+This is a repository for source code management of
+ML based project - Classification of fresh and rotten fruits using CNN -
 
+Also, I will be maintaning the documentation part of the same in this repository
